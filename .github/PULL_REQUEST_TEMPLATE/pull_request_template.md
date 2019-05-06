@@ -1,3 +1,11 @@
+---
+name: Pull request
+about: Submit a fix or feature
+title: ''
+labels: ''
+assignees: ''
+
+---
 ## Pull Request Template
 Please, go through these steps before you submit a PR.
 
