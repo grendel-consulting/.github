@@ -1,5 +1,3 @@
-## Who Are We?
-
 We are a boutique consultancy, working in the open on our own projects where possible. 
 
 We strongly believe in a centaur way of working, multiplying how we work with automation and left-shifting and the right tools.
