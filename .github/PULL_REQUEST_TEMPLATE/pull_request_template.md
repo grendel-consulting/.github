@@ -19,7 +19,7 @@ Please, go through these steps before you submit a PR.
   2.3. You have only one commit (if not, squash them into one commit).
 
   2.4. You have executed any tests and pre-test linting.
-  
+
   2.5. No errors are thrown in `pnpm test`. If it does, fix them first and amend your commit (`git commit --amend`).
 
 3. **After** these steps, you're ready to open a pull request.
