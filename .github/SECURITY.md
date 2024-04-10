@@ -11,7 +11,7 @@ Where appropriate, we will indicate which versions of a specific project are sup
 
 We take all security bugs in our projects seriously. Thank you for improving the
 security of them. We appreciate your efforts and responsible disclosure, and will
-make every effort to acknowledge your contributions. At this time we do not run
+make every effort to acknowledge your contributions. At this time, we do not run
 a formal bug bounty programme.
 
 Report security bugs by emailing us at
@@ -75,7 +75,7 @@ with existing techniques and good practise.
 
 ## Providing Feedback
 
-If you have suggestions on how this process could be improved please submit a
+If you have suggestions on how this process could be improved, please submit a
 pull request.
 
 ## Versions
