@@ -18,8 +18,8 @@ or
 
 ## Getting Started
 
-Please start a conversation or raise an issue about the feature or issue you've 
-found; that provides us an opportunity to understand what you've spotted, where 
+Please start a conversation or raise an issue about the feature or issue you've
+found; that provides us an opportunity to understand what you've spotted, where
 it challenges our approach and where it augments it.
 
 ## Your Commits
